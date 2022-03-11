@@ -22,19 +22,19 @@ Não Funcionais
  
 Mostra que a mensagem foi visualizada, que entra na 1ª Heurística
 
-![image](https://user-images.githubusercontent.com/90360441/157985221-7aa4e94d-122c-4cd9-924f-d57890b457a6.png)
+![image](https://user-images.githubusercontent.com/90360441/157985504-3f232d53-0e21-4f7c-8589-be531a32dfed.png)
 
 Cada ícone mostra pra onde vai, ajudando a facilitar o entendimento da plataforma, que entra na 2ª Heurística
 
- ![image](https://user-images.githubusercontent.com/90360441/157985243-bf679de4-c030-42ce-802b-49e0b9c986d5.png)
+![image](https://user-images.githubusercontent.com/90360441/157985546-81195403-6b28-4f75-9a08-0f5e4acf4c36.png)
  
 Da uma opção de voltar direto para onde o usuário estava, que entra na 3ª Heurística
 
-![image](https://user-images.githubusercontent.com/90360441/157985251-6bd5bdc0-be32-4cad-8b1d-906dc188fe23.png)
+![image](https://user-images.githubusercontent.com/90360441/157985572-39e11f97-78e7-486a-b948-416026e32aa0.png)
 
 Ter a função de pesquisa ajuda ao usuário a encontrar mais fácil o que ele procura, o que entra na 4ª Heurística
 
-![image](https://user-images.githubusercontent.com/90360441/157985258-9ddc281b-b0f5-48c8-8aca-1335a036ac52.png)
+![image](https://user-images.githubusercontent.com/90360441/157985586-a142610b-91ca-498d-9859-d0ea2c97399d.png)
 
 A opção de ajuda da uma saída para o usuário se orientar sobre algo que não consegue fazer, que entra na Heurística 10
 
