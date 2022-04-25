@@ -33,6 +33,15 @@ Cada ícone mostra pra onde vai, ajudando a facilitar o entendimento da platafor
  
 Da uma opção de voltar direto para onde o usuário estava, que entra na 3ª Heurística
 
+
+
+Atividade 2 (Projeto Diagrama)
+
+![WhatsApp Image 2022-04-25 at 19 19 46 (1)](https://user-images.githubusercontent.com/90360441/165184685-442e9867-6057-407e-a0f7-d1c4cd9e0d1c.jpeg)
+![WhatsApp Image 2022-04-25 at 19 19 46](https://user-images.githubusercontent.com/90360441/165184704-72347cbc-ee12-4b73-8cef-fe392775466c.jpeg)
+
+
+
 ![image](https://user-images.githubusercontent.com/90360441/157985572-39e11f97-78e7-486a-b948-416026e32aa0.png)
 
 Ter a função de pesquisa ajuda ao usuário a encontrar mais fácil o que ele procura, o que entra na 4ª Heurística
