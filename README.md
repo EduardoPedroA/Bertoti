@@ -59,7 +59,7 @@ import java.util.List;
 
 public class Plataforma {
 
-     private List<Pessoa> carros = new LinkedList<Pessoa>();
+     private List<Pessoa> pessoa = new LinkedList<Pessoa>();
 
      public void cadastrarPessoa(Pessoa pessoa){
           pessoa.add(pessoa);
@@ -74,7 +74,7 @@ public class Plataforma {
            return pessoasEncontrados;
      }
 
-     public Pessoa buscarCarroPorPlaca(String placa){
+     public Pessoa buscarpessoaPorCPF(String CPF){
           Pessoa[] pessoas = null;
 		for(Pessoa pessoa:pessoas){
 			if(pessoa.getPessoa().equals(getPessoa())) return pessoa; 
@@ -195,11 +195,11 @@ public class Diciplina {
 		this.Professor= novoProfessor;
 	}
 	
-	public String getCorCarro() {
+	public String getTurmaPessoa() {
 		return Turma;
 	}
 	
-	public void setCorCarro(String Turma) {
+	public void setTurmaPessoa(String Turma) {
 		this.Turma = Turma;
 	}
 	
